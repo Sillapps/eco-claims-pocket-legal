@@ -1,6 +1,6 @@
 # Eco Claims Pocket Legal Pages
 
-This repository hosts the public legal pages for the Android app
+This repository hosts the public legal pages for the mobile app
 **Eco Claims Pocket**.
 
 It is intended to be published with GitHub Pages as a minimal static website.
